@@ -15,7 +15,17 @@ for idx, feed in enumerate(rss_feed['entries']):
     feed_date = feed['published_parsed']
     latest_blog_post_list += f"[{feed_date,tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
-markdown_text = """기본으로 변하지 않을 README.md 값
+markdown_text = """## ABOUT ME 👋
+I wanna be a android developer.
+
+Contact Email : hw813@naver.com
+
+Tech Blog : https://keem.tistory.com/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keem-hyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
+
+Latest Blog Post
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
