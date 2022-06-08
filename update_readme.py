@@ -31,4 +31,4 @@ Latest Blog Post
 readme_text = f"{markdown_text}{latest_blog_post_list}"
 
 with open("README.md", 'w', encoding='utf-8') as f:
-    f.write(readme_Text)
+    f.write(readme_text)
