@@ -1,5 +1,5 @@
 ## ABOUT ME 👋
-I wanna be a engineer.
+I wanna be a android developer.
 
 📩 Contact Email : hw813@naver.com
 
@@ -9,6 +9,7 @@ I wanna be a engineer.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
 
 Latest Blog Post
+[2022/6/14 - Today I Learned](https://keem.tistory.com/entry/Today-I-Learned) <br>
 [2022/6/10 - 22.06.11 Today I Learned](https://keem.tistory.com/entry/220611-Today-I-Learned) <br>
 [2022/6/10 - 22.06.10 Today I Learned](https://keem.tistory.com/entry/220610-Today-I-Learned) <br>
 [2022/6/9 - 22.06.09 Today I Learned](https://keem.tistory.com/entry/220609-Today-I-Learned) <br>
