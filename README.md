@@ -1,5 +1,5 @@
 ## ABOUT ME 👋
-I wanna be a android developer.
+I wanna be a engineer.
 
 📩 Contact Email : hw813@naver.com
 
