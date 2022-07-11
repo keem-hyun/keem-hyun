@@ -26,7 +26,7 @@ I wanna be a cloud engineer.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hurrush)](https://solved.ac/hurrush)]
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hurrush)](https://solved.ac/hurrush)
 
 Latest Blog Post
 """
