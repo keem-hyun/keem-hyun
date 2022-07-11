@@ -7,7 +7,7 @@ I wanna be a cloud engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keem-hyun&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hurrush)](https://solved.ac/hurrush)
+[![Solved.ac ](http://mazassumnida.wtf/api/generate_badge?boj=hurrush)](https://solved.ac/hurrush)
 
 Latest Blog Post
 [2022/7/11 - Today I Learned - [네트워크]](https://keem.tistory.com/entry/Today-I-Learned-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) <br>
