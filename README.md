@@ -6,7 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keem-hyun&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hurrush)](https://solved.ac/hurrush/)
 
 Latest Blog Post
 [2022/7/27 - 쿠키와 세션의 차이?](https://keem.tistory.com/entry/%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98%EC%9D%98-%EC%B0%A8%EC%9D%B4) <br>
