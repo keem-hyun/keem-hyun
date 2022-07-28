@@ -23,7 +23,6 @@ markdown_text = """## ABOUT ME 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keem-hyun&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hurrush)](https://solved.ac/hurrush/)
 
 Latest Blog Post
 """
