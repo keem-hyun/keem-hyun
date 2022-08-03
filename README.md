@@ -1,6 +1,4 @@
-## Welcome to my profile
-
-## How to contact to me
+⚡️ How to contact to me
 
 <a href="https://keem.tistory.com/">
     <img 
