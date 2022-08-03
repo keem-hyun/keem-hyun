@@ -11,7 +11,7 @@
         src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=hw813@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+<p>
 🙌 Hi, there! I wanna be a backend developer. so, I am studying these skills.
 
 ### Skills
