@@ -1,4 +1,4 @@
-## ⚡️ How to contact to me
+## ⚡️ About me
 
 <a href="https://keem.tistory.com/">
     <img 
