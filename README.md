@@ -11,12 +11,15 @@
         src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=hw813@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<p>
+
+
 🙌 Hi, there! I wanna be a backend developer. so, I am studying these skills.
+
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keem-hyun&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
