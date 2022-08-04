@@ -2,7 +2,7 @@
 
 <a href="https://keem.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat-square&link=https://keem.tistory.com"
+        src="http://img.shields.io/badge/-Tech%20Blog-30B980?style=flat-square&link=https://keem.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
