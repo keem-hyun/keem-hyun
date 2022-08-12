@@ -1,30 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Have%20a%20good%20day!&fontSize=90)
+<div align="center">
 
-## ⚡️ About me
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=300&section=header&text=Have%20a%20good%20one!&fontColor=fcba03&fontSize=90)
 
-<a href="https://keem.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-006600?style=flat-square&link=https://keem.tistory.com"
+<h3 align="center">💡 Teck Stack 💡</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align="center"> 🎳 About Me 🎳 </h3>
+<p align="center">
+     <a href="https://velog.io/@keem-hyun"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@keem-hyun"/></a>&nbsp
+     <a href="https://www.instagram.com/keem_hyun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/keem_hyun/"/></a>&nbsp
+     <a href="mailto:hurrush@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-FF9E0F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hurrush@kyonggi.ac.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
-<a href="mailto:hurrush@kyonggi.ac.kr">
-    <img
-        src="https://img.shields.io/badge/Gmail-FF9E0F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hurrush@kyonggi.ac.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</p>
 
+<br>
 
-## 💡 Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%2338B2AC.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://github.com/keem-hyun/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/keem-hyun/github-stats-transparent/blob/output/generated/languages.svg)
 
-
-
-## 📈 About Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keem-hyun&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=merko)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hurrush)](https://solved.ac/hurrush/)
-
-
+</div>
