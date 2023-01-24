@@ -14,11 +14,6 @@
 
 </p>
 
-<h3 align="center"> ✏️ latest posts ✏️ </h3>
-<p align="center">
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=keem-hyun)](https://velog.io/@keem-hyun) 
-</p>
-
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=codeSTACKr)
