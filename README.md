@@ -16,7 +16,7 @@
 
 <h3 align="center"> ✏️ latest posts ✏️ </h3>
 <p align="center">
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=keem-hyun)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
 </p>
 
 <br>
