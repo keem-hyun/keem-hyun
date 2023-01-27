@@ -14,10 +14,13 @@
 
 </p>
 
+<h3 align="center"> ✏️ Latest Post ✏️ </h3>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=keem-hyun&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keem-hyun&show_icons=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keem-hyun&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=keem-hyun&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+
 
 </div>
