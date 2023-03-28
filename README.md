@@ -5,7 +5,6 @@
 <h3 align="center">💡 Teck Stack 💡</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center"> ⚡️ About Me ⚡️ </h3>
