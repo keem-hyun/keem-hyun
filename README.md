@@ -29,9 +29,9 @@
 
 </p>
 
-<h3 align="center"> ✏️ Latest Post ✏️ </h3>
+<h3 align="center"> 📨  Email  📨 </h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=keem-hyun&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+hw813@naver.com
 
 <br>
 
