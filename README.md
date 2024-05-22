@@ -4,7 +4,7 @@
     
 <br>
   
-## 🧑‍💻 Hello I'm Software Engineer KangHyeon Kim
+## 🧑‍💻 Hello I'm Software Engineer KangHyeon Kim
     
 <br>
 
