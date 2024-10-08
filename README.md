@@ -4,16 +4,13 @@
     
 <br>
   
-## 🧑‍💻 Hello I'm Software Engineer, KangHyun Kim
+## 🧑‍💻 Hello I'm iOS Engineer, KangHyun Kim
     
 <br>
 
 ## 💡 Teck Stack 💡
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Python-147EFB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-    <br>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
     <br>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
     <br/>
