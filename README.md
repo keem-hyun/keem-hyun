@@ -8,26 +8,21 @@
     
 <br>
 
-## 💡 Teck Stack 💡
-<p align="center">
-    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/></a>
-    <br>
-    <br>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
-    <br/>
-</p>
+## Activity
 
-<h3 align="center"> ⚡️ About Me ⚡️ </h3>
+| Period | Category | Activity | Description |
+|:---:|:---:|:---:|:---:|
+| 2023.02 - 2023.08 | Club | UMC(University MakeUs Challenge) 4th | President of a Club |
+
+## Blog & SNS 
 <p align="center">
      <a href="https://velog.io/@keem-hyun"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@keem-hyun"/></a>&nbsp
-
+     <a href="https://x.com/keem_hyun"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white&link=https://x.com/keem_hyun"/></a>&nbsp
 </p>
 
-<h3 align="center"> 📨  Email  📨 </h3>
+## Email
 
-hw813@naver.com
+ddiamo997@gmail.com
 
 <br>
 
