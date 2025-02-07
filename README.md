@@ -5,6 +5,9 @@
 <br>
   
 ## 🧑‍💻 Hello I'm Software Engineer, KangHyun Kim
+I started career with mobile development and now I'm doing software engineering for products.
+
+These days, I'm very interested in infra and blockchain, especially validators.
     
 <br>
 
