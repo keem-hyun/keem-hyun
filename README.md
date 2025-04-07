@@ -15,6 +15,7 @@ These days, I'm very interested in blockchain.
 
 | Period | Category | Activity | Description |
 |:---:|:---:|:---:|:---:|
+| 2025.04 | Hackathon | Seoulana(solana seoul) Hackathon | 3rd prize on liquid staking innovation track (sponsored by sanctum)  |
 | 2023.02 - 2023.08 | Club | UMC(University MakeUs Challenge) 4th | President of a Club |
 
 ## Blog & SNS 
